@@ -28,6 +28,7 @@ public class NetDemo1 {
 			sb.append(line+"\n");
 		}
 		System.out.println(sb.toString());
+		System.out.println("111");
 	}
 
 }
